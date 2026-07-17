@@ -1,0 +1,10 @@
+{
+    "version":  "1.0.0",
+    "name":  "eruen-agent",
+    "description":  "Autonomous AI agent for the agent economy",
+    "scripts":  {
+                    "start":  "node index.js"
+                },
+    "license":  "MIT",
+    "main":  "index.js"
+}
